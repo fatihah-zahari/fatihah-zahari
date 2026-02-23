@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Nurul Fatihah 👋
 
-<!--
-**fatihah-zahari/fatihah-zahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Information Technology (Hons)  
+💻 Web System Developer | IT Support  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am an IT graduate with hands-on experience in developing structured role-based systems using PHP and MySQL.  
+I enjoy building management systems, automating workflows, and solving real-world operational problems.
+
+Currently focusing on:
+- Web-based management systems
+- System automation
+- Clean project architecture
+- Version control best practices
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- PHP
+- Python
+- JavaScript
+- SQL
+
+**Tools & Technologies**
+- MySQL
+- XAMPP
+- Git & GitHub
+- Google Apps Script
+- Power BI
+- VS Code
+
+---
+
+## 📌 Featured Project
+
+🔹 **Sistem Pengurusan Program KAFA**  
+Role-based management system with token-based feedback evaluation.
+
+🔗 View Project:  
+https://github.com/fatihah-zahari/sistem-pengurusan-program-kafa
+
+---
+
+## 📫 Connect With Me
+
+📧 fatihahzahari10@gmail.com  
+📍 Malaysia
