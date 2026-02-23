@@ -1,8 +1,9 @@
 # Hi, I'm Nurul Fatihah 👋
 
 🎓 Bachelor of Information Technology (Hons)  
-💻 Web System Developer | IT Support  
+💻 Web System Developer | IT Support | System Automation
 
+I build structured web-based management systems and support IT operations with practical troubleshooting and system administration experience.
 ---
 
 ## 🚀 About Me
@@ -18,30 +19,41 @@ Currently focusing on:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
-- PHP
-- Python
+### 💻 Development
+- PHP (Native)
+- Python (Flask, automation)
 - JavaScript
-- SQL
-
-**Tools & Technologies**
 - MySQL
-- XAMPP
+- HTML & CSS
+
+### 🖥️ IT & System Support
+- Windows Troubleshooting
+- Active Directory (Basic)
+- Ticketing Systems (ServiceNow / Jira)
+- Power BI Dashboard
+- Google Apps Script Automation
+- PC Setup & BIOS Configuration
+
+### 🔧 Tools
 - Git & GitHub
-- Google Apps Script
-- Power BI
+- XAMPP
 - VS Code
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-🔹 **Sistem Pengurusan Program KAFA**  
-Role-based management system with token-based feedback evaluation.
+### 🔹 KAFA Program Management System
+Role-based web application built with PHP & MySQL featuring:
+- Multi-role authentication
+- Program approval workflow
+- Token-based anonymous feedback
+- Post-mortem reporting
+- Automated rating calculation
 
-🔗 View Project:  
+🔗 View Project:
 https://github.com/fatihah-zahari/sistem-pengurusan-program-kafa
 
 ---
