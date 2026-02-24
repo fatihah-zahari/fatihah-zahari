@@ -51,13 +51,20 @@ Role-based web application built with PHP & MySQL featuring:
 - Multi-role authentication
 - Program approval workflow
 - Token-based anonymous feedback
-- Post-mortem reporting
 - Automated rating calculation
 
 🔗 View Project:
 https://github.com/fatihah-zahari/sistem-pengurusan-program-kafa
 
----
+### 🔹 E-Pengurusan Jenazah & Khairat System
+Administrative management system with multi-level approval and financial tracking:
+- Role-based access control (RBAC)
+- Approval workflow (Admin & Imam)
+- Invoice & receipt generation
+- Real-time KPI dashboard
+
+🔗 View Project:
+https://github.com/fatihah-zahari/epj-management-system
 
 ## 📫 Connect With Me
 
