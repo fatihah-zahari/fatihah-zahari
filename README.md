@@ -27,6 +27,7 @@ Currently focusing on:
 - JavaScript
 - MySQL
 - HTML & CSS
+- Bootstrap
 
 ### 🖥️ IT & System Support
 - Windows Troubleshooting
